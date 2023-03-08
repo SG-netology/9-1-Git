@@ -7,5 +7,5 @@
 Создайте виртуальную машину в Yandex Cloud Compute Cloud и с помощью Yandex Monitoring создайте дашборд,
 на котором будет видно загрузку процессора.
 
-
+![1-1](https://github.com/SG-netology/9-1-Git/blob/main/1-1.png)
 
